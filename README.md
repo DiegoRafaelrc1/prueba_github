@@ -11,3 +11,5 @@ Ramirez c
 12/08/2025
 
 hola mundo
+
+color azul
